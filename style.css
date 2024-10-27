@@ -23,7 +23,16 @@
     text-align: center;
     margin-bottom: 20px;
     font-size: 3rem;
-    color: blue;
+    color: rgb(21, 21, 24);
+    background-color: #f8d2d2;
+}
+
+.container h3{
+    margin: 20px 0;
+    text-align: center;
+    margin-bottom: 20px;
+    color: rgb(21, 21, 24);
+    background-color: #f8d2d2;
 }
 
 .gallery{
